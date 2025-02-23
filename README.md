@@ -1,6 +1,6 @@
 # Ai Speaking Coach using DeepSeek
 
-AI speaking coach is designed to help practice conversational skills in a foreign language. This python-based program uses DeepSeek large language model. As of February 2024, DeepSeek does not provide a voice interface. To enable voice interaction with DeepSeek, the Whisper local neural network is used for speech recognition, and gTTS (Google Text-to-Speech) is used for speech synthesis.
+AI speaking coach is designed to help practice conversational skills in a foreign language. This python-based program uses DeepSeek large language model. As of February 2025, DeepSeek does not provide a voice interface. To enable voice interaction with DeepSeek, the Whisper local neural network is used for speech recognition, and gTTS (Google Text-to-Speech) is used for speech synthesis.
 
 ![Diagram](./docs/diag1.png)
 
